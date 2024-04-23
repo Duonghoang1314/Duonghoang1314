@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Duonghoang1314
+- 👀 I’m interested in Embedded programming, Smart devices, Deep learning, Robotic
+- 🌱 I’m currently learning Computer Vision
+- 💞️ I’m looking to collaborate on Embedded Project
+- 📫 How to reach me hoangduong131023@gmail.com
+- 😄 Pronouns: He/Him
